@@ -1,0 +1,22 @@
+
+{
+    "profile": "default",
+
+    "protocol": "ftp",
+    "host": "127.0.0.1",
+    "port": 5500,
+    "user": "sofiya",
+    "password": "ilovemyindia_123",
+    
+    "remotePath": "purplehand",
+    "uploadOnSave": false,
+    "saveOnCheckIn": false,
+    "clearCacheOnCheckIn": false,
+    
+    "ignore": [
+        "*/.DS_Store",
+        "*/.vscode/*",
+        "*/.git/*",
+        "*/*.LCK"
+    ]
+}
